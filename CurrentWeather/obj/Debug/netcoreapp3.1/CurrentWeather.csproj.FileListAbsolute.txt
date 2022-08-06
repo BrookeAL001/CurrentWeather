@@ -1,0 +1,16 @@
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.csproj.AssemblyReference.cache
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.AssemblyInfoInputs.cache
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.AssemblyInfo.cs
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.csproj.CoreCompileInputs.cache
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\CurrentWeather.exe
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\CurrentWeather.deps.json
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\CurrentWeather.runtimeconfig.json
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\CurrentWeather.runtimeconfig.dev.json
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\CurrentWeather.dll
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\CurrentWeather.pdb
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.csproj.CopyComplete
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.dll
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.pdb
+C:\Users\12053\source\repos\CurrentWeather\CurrentWeather\obj\Debug\netcoreapp3.1\CurrentWeather.genruntimeconfig.cache
